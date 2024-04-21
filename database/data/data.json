@@ -1,0 +1,14 @@
+{
+    "fr":{
+        "titre" : "titre",
+        "texte" : "Ceci est un paragraphe en français.Pour bien faire la disctinction entre les différentes langues je vais écrire de vraies phrase et pas du lorem ipsum donc je vais bien m'amuser. Je vous préviens également : je ne parle pas assez bien espagnol pour faire la traduction mot pour mot donc je vais utiliser google traduction, vous êtes prévenus quant à la qualité de ce que vous pourrez lire. En anglais ça va mais mon espagnol est scolaire et en plus ça commence à dater. Je pense que je peux m'arrêter ici pour le paragraphe."
+    },
+    "en":{
+        "titre" : "title",
+        "texte" : "This is a paragraph in english. I'll write real sentences here so we can make the distinction between languages so lorem ipsum is out of the question, which is fun. I'll also warn you : I don't speak a well enough spanish to translate this word for word so I'll have to use google translate, you are warned when it comes to the quality of what you'll read. My english is fine (although I've take liberties translating my own words here as you can see) but my spanish is (probbly less than) elementary, it's been a while since I haven't been in school. I think I can stop rambling now."
+    },
+    "es":{
+        "titre" : "titulo",
+        "texte" : "buenos dias :) Este es un párrafo en español. Para distinguir claramente entre los diferentes idiomas escribiré oraciones reales y no de Lorem Ipsum así me divertiré. También te advierto: no hablo español lo suficientemente bien como para traducir palabra por palabra así que usaré el traductor de Google, estás advertido de la calidad de lo que podrás leer. En inglés está bien pero mi español es académico y además está empezando a actualizarse. Creo que puedo detenerme aquí para el párrafo."
+    }
+}
